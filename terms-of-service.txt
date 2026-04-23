@@ -1,0 +1,37 @@
+Terms of Service
+
+Effective Date: [DATE]
+
+1. Introduction
+Welcome to [YOUR_APP_NAME]. By accessing or using our application, you agree to be bound by these Terms of Service.
+
+2. Use of Service
+You agree to use the application only for lawful purposes and in compliance with all applicable laws and TikTok policies.
+
+3. Content Responsibility
+Users are solely responsible for the content they upload, publish, or distribute using the application.
+
+Users must ensure that they own the content or have obtained all necessary rights, licenses, and permissions.
+
+The application does not support or encourage uploading copyrighted content without proper authorization.
+
+4. Prohibited Activities
+Users may not:
+- Upload content that violates intellectual property rights
+- Use the service for spam or abusive behavior
+- Violate TikTok’s Terms of Service or Community Guidelines
+
+5. Service Availability
+We reserve the right to modify, suspend, or discontinue the service at any time without notice.
+
+6. Limitation of Liability
+We are not responsible for any damages resulting from the use of the application or violations committed by users.
+
+7. Termination
+We reserve the right to suspend or terminate access if users violate these terms.
+
+8. Privacy
+Please refer to our Privacy Policy for information on how we collect and use data.
+
+9. Contact
+If you have any questions, contact us at: [YOUR_EMAIL]
